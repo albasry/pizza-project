@@ -1,0 +1,11 @@
+D:\02_Hodehod\14 - C# Level 1\69 Pizza Project\PizzaProject\bin\Debug\PizzaProject.exe.config
+D:\02_Hodehod\14 - C# Level 1\69 Pizza Project\PizzaProject\bin\Debug\PizzaProject.exe
+D:\02_Hodehod\14 - C# Level 1\69 Pizza Project\PizzaProject\bin\Debug\PizzaProject.pdb
+D:\02_Hodehod\14 - C# Level 1\69 Pizza Project\PizzaProject\obj\Debug\PizzaProject.csproj.AssemblyReference.cache
+D:\02_Hodehod\14 - C# Level 1\69 Pizza Project\PizzaProject\obj\Debug\PizzaProject.frmMain.resources
+D:\02_Hodehod\14 - C# Level 1\69 Pizza Project\PizzaProject\obj\Debug\PizzaProject.Properties.Resources.resources
+D:\02_Hodehod\14 - C# Level 1\69 Pizza Project\PizzaProject\obj\Debug\PizzaProject.csproj.GenerateResource.cache
+D:\02_Hodehod\14 - C# Level 1\69 Pizza Project\PizzaProject\obj\Debug\PizzaProject.csproj.CoreCompileInputs.cache
+D:\02_Hodehod\14 - C# Level 1\69 Pizza Project\PizzaProject\obj\Debug\PizzaProject.exe
+D:\02_Hodehod\14 - C# Level 1\69 Pizza Project\PizzaProject\obj\Debug\PizzaProject.pdb
+D:\02_Hodehod\14 - C# Level 1\69 Pizza Project\PizzaProject\obj\Debug\PizzaProject.frmPizzaOrder.resources
